@@ -15,7 +15,8 @@ My background in software engineering and design helps me blend creativity with 
 ---
 
 ### 🚀 Past Projects  
-🔹 [Shuriken Adventures](#) — 3D Unity platformer with AI-driven gameplay (gameplay video in my portfolio)
+🔹 [Shuriken Adventures](#Adventures-Of-The-Shuriken
+) — 3D Unity platformer with AI-driven gameplay (gameplay video in my portfolio)
 
 🔹 [Zombie Survival VR](#) — Unreal Engine 5 project featuring modular levels and AI zombies (gameplay video in my portfolio)
 
